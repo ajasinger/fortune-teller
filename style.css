@@ -1,0 +1,14 @@
+html { 
+    margin: 0; 
+    padding: 0; 
+  }
+
+body {
+    background-color: C4C3FF;
+    color: D8FDB0;
+  }
+
+button {
+    background-color: FF5A61;
+    color: FF823A;
+  }
